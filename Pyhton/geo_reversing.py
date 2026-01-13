@@ -23,7 +23,7 @@ connection_url = sa.engine.URL.create(
 engine = create_engine(connection_url)
 
 query = """
-    SELECT TOP 10
+    SELECT
         id, lat, lng
     FROM airbnb.addresses
 """
