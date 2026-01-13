@@ -212,7 +212,7 @@ CREATE VIEW airbnb.addresses AS (
 )
 
 
-SELECT * FROM airbnb.airbnb;
+SELECT * FROM airbnb.addresses;
 
 
 
