@@ -67,6 +67,8 @@ Data cleaning and transformation were performed entirely using SQL and python, i
 
 Dashboard link : [Airbnb Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjIxYzg5NjgtZDg1Mi00YTFiLWFkZWQtNTVhNjM3M2NkYTRjIiwidCI6IjE1MTdkMWEwLWQ3MWMtNDkzZC04ZDQzLTgxMzRmYmY0NWI1ZSIsImMiOjl9)
 
+<a href="[https://example.com](https://app.powerbi.com/view?r=eyJrIjoiZjIxYzg5NjgtZDg1Mi00YTFiLWFkZWQtNTVhNjM3M2NkYTRjIiwidCI6IjE1MTdkMWEwLWQ3MWMtNDkzZC04ZDQzLTgxMzRmYmY0NWI1ZSIsImMiOjl9)" target="_blank" rel="noopener noreferrer">Airbnb Dashboard</a>
+
   
 ## 🛠 Tools & Technologies
 - SQL Server
