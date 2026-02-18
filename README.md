@@ -57,8 +57,8 @@ Data cleaning and transformation were performed entirely using SQL and python, i
 
 
 ## 📊 Power BI
-- Coming soon
-
+- The Power BI dashboard explores Airbnb bookings in Riyadh for the last three months. This project significantly enhances decision-making and provides insights into the short-term rental sector.
+![Airbnb BI](https://samsung-crm.com/mena/KSA/SW-MX-2/grouped.png)
 
 ## 🛠 Tools & Technologies
 - SQL Server
