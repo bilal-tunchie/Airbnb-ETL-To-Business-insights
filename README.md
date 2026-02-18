@@ -65,6 +65,8 @@ Data cleaning and transformation were performed entirely using SQL and python, i
 - Optimize performance with indexing
 - Expand dataset with additional Airbnb attributes
 
+Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiZjIxYzg5NjgtZDg1Mi00YTFiLWFkZWQtNTVhNjM3M2NkYTRjIiwidCI6IjE1MTdkMWEwLWQ3MWMtNDkzZC04ZDQzLTgxMzRmYmY0NWI1ZSIsImMiOjl9
+
   
 ## 🛠 Tools & Technologies
 - SQL Server
@@ -85,8 +87,7 @@ Data cleaning and transformation were performed entirely using SQL and python, i
 
 ## 🙌 Credits
 - Dataset: Kaggle
-- Analysis & ETL: Bilal Mohamed [Bilal Mohamed](https://www.linkedin.com/in/bilal-mohamed-909b95201/) 
-- Data Engineer: [Mohammed Alsubaie](https://www.kaggle.com/datasets/mohammedalsubaie/riyadh-airbnb)
+- Data Engineer, Analysis & ETL: Bilal Mohamed [Bilal Mohamed](https://www.linkedin.com/in/bilal-mohamed-909b95201/) 
 
 
 
